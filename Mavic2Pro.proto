@@ -65,8 +65,6 @@ Robot {
     }
     DEF GYRO Gyro {
     }
-    DEF ACCELEROMETER Accelerometer {
-    }
     DEF INERTIAL_UNIT InertialUnit {
     }
     DEF REAR_LEFT_HP_HELIX Propeller {
